@@ -1,3 +1,5 @@
+#Test 
+
 $VMname= "VM-TEST-Z"
 $username ='administrator'
 $pass = ConvertTo-SecureString "vagrant" -AsPlainText -Force
